@@ -8,7 +8,6 @@
 
 ## Setup
 1. Clone this repo
-2. Rename `config/config.py.example` to `config/config.py` and fill in your API keys
+2. Fill in your API keys in the `.env file`.
 3. Run `pip install -r requirements.txt`
 4. Run the Telegram bot: `python main.py`
-5. Launch dashboard: `cd dashboard && python app.py`
